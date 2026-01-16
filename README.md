@@ -8,6 +8,7 @@
 An autonomous AI Agent that doesn't just chat—it **thinks**, **researches**, and **codes**.
 
 Built with **LangGraph**, this agent features a self-correcting routing system that intelligently switches between casual conversation, deep web research (Tavily), and data analysis (Python REPL).
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agentic-research-lab-evoylkjenjapdcwkf8seii.streamlit.app/)
 
 ---
 
