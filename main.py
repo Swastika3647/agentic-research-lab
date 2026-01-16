@@ -11,6 +11,7 @@ llm = ChatOpenAI(
     model="gpt-4o-mini", 
     temperature=0.7,
     api_key=os.getenv("OPENAI_API_KEY")
+)
 search = DuckDuckGoSearchRun()
 
 # 2. STATE
